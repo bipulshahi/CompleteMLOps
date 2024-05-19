@@ -1,51 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T10:33:58.521Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="6DCuJd_2CbJtOZwvWlRR" version="24.4.4" type="github" pages="2">
-  <diagram name="Page-1" id="cVwKLgfyHr3RPONvM4s9">
-    <mxGraphModel dx="1735" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-05-19T05:49:06.540Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="ZyYKhe1jevASPse5i0sR" version="24.4.4" type="github" pages="3">
+  <diagram id="F-iOZzCVcNmpRCZe6tkR" name="Page-3">
+    <mxGraphModel dx="1804" dy="3942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AHdn5EP3jyd2EPN338Kd-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Learning GIT&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Open Source Distributed version control Sytem&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="20" width="730" height="120" as="geometry" />
+        <mxCell id="lmNp3rmC-LeaxFNhLM95-1" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Example for MLOps : - Building a House&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;1. Planning and Design (Development Stage)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;2. Building the foundation (Data Preparation)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;3. Construction (Model Training)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;4. Inspection &amp;amp; Approval (Model Evaluation)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;5. Handing over Keys (Deployment)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;6. Maintenance &amp;amp; Repairs (Monitoring and Maintenance)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-2380" width="830" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AHdn5EP3jyd2EPN338Kd-2" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 25px;&quot;&gt;Repository&lt;/h1&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;A repository (repo) is how we refer a project version controlled by GIT&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="150" width="790" height="120" as="geometry" />
+        <mxCell id="lmNp3rmC-LeaxFNhLM95-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Components of MLOps&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;1. Continuous Integration (CI) - CI measures that any new changes in the model or code are automatically tested and integrated with the existing system&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;2. Continuous Deployment (CD) - CD automates the deployment of new model versions or updates to production without downtime.&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;3. Monitoring - MLops involves setting up monitoring systems to track the model&#39;s performance, detect anomalies and gather data on how it it&#39;s being used.&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="-2200" width="850" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="AHdn5EP3jyd2EPN338Kd-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Local Repo&lt;br&gt;&lt;/h1&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;In Our Local Machine&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="270" width="180" height="120" as="geometry" />
+        <mxCell id="lmNp3rmC-LeaxFNhLM95-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Importance of MLOps&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;1. Efficiency 2. Reliability 3. Scalability&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-1980" width="830" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AHdn5EP3jyd2EPN338Kd-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Remote Repo&lt;br&gt;&lt;/h1&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;hosted on a hosting service&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="270" width="270" height="100" as="geometry" />
+        <mxCell id="lmNp3rmC-LeaxFNhLM95-4" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Git , MlFlow, Jenkins , Grafana, AWS&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-1890" width="710" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="AHdn5EP3jyd2EPN338Kd-7" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Github&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;gitlab&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;bitbucket&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;codecommit&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="320" width="60" height="30" as="geometry" />
+        <mxCell id="lmNp3rmC-LeaxFNhLM95-5" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 29px;&quot;&gt;GIT&lt;/h1&gt;&lt;p style=&quot;font-size: 29px;&quot;&gt;1. GIT is open source Distributed version control System(DVCS).&lt;/p&gt;&lt;p style=&quot;font-size: 29px;&quot;&gt;2. A version control system allows us to record changes to files over a period&lt;/p&gt;&lt;p style=&quot;font-size: 29px;&quot;&gt;3. GIT is used to mainintain the historical and current versions of source code.&lt;/p&gt;&lt;p style=&quot;font-size: 29px;&quot;&gt;Usage of GIT at higher level&lt;/p&gt;&lt;p style=&quot;font-size: 29px;&quot;&gt;=&amp;gt; In a project, developers have a copy of all versions of the code stored in the central server.&lt;/p&gt;&lt;p style=&quot;font-size: 29px;&quot;&gt;=&amp;gt; GiT allows to track the changes, who made the changes and when&lt;/p&gt;&lt;p style=&quot;font-size: 29px;&quot;&gt;=&amp;gt; GIT allows rollback/ restore changes&lt;/p&gt;&lt;p style=&quot;font-size: 29px;&quot;&gt;=&amp;gt; GIT allows multiple developers to coordinate and work on the same file&lt;/p&gt;&lt;p style=&quot;font-size: 29px;&quot;&gt;=&amp;gt; GIT can maintain a copy of file at remote and local level&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-1800" width="930" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AHdn5EP3jyd2EPN338Kd-8" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 25px;&quot;&gt;Working with Local Repo&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;A local repository is a repository that stored on a local machine&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="500" width="770" height="120" as="geometry" />
+        <mxCell id="lmNp3rmC-LeaxFNhLM95-6" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;Base Model&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-1440" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="AHdn5EP3jyd2EPN338Kd-9" value="&lt;div style=&quot;font-size: 13px;&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;GiT Configurations - Settings that allows us to customize how git works, They consists of variable sand their values , and they are stored in couple of different files.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="440" width="800" height="30" as="geometry" />
+        <mxCell id="lmNp3rmC-LeaxFNhLM95-7" value="Best Hyperparameter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-1410" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="AHdn5EP3jyd2EPN338Kd-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="770" width="820" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="AHdn5EP3jyd2EPN338Kd-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Local Repo&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="365" y="850" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AHdn5EP3jyd2EPN338Kd-12" value=".git" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AHdn5EP3jyd2EPN338Kd-13" value="MLProject" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="80" y="670" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="AHdn5EP3jyd2EPN338Kd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AHdn5EP3jyd2EPN338Kd-14" target="AHdn5EP3jyd2EPN338Kd-11">
+        <mxCell id="lmNp3rmC-LeaxFNhLM95-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lmNp3rmC-LeaxFNhLM95-9" target="lmNp3rmC-LeaxFNhLM95-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AHdn5EP3jyd2EPN338Kd-14" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;git init&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="850" width="60" height="40" as="geometry" />
+        <mxCell id="lmNp3rmC-LeaxFNhLM95-9" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Experiment Branch&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-1440" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lmNp3rmC-LeaxFNhLM95-10" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;2. GIT allows developers to track changes, who made the changes and when&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;3. GIT allows Rollback/restore changes&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;4. GIT allows multiple developers to coordinate and work on same files&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;5. GIT maintain a copy of the files at the remote and local levels&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="-1640" width="760" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram name="Page-1" id="cVwKLgfyHr3RPONvM4s9" />
   <diagram id="MicMQ77vYMq2K7jY_swo" name="Page-2">
     <mxGraphModel dx="954" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
