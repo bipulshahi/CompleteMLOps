@@ -1,5 +1,5 @@
 import os
-import pandas as pandas
+import pandas as pd
 import joblib
 from Myloanapp.config import config
 
@@ -13,11 +13,11 @@ def load_dataset(file_name):
 def save_pipeline(pipeline_to_save):
     save_path = os.path.join(config.SAVE_MODEL_PATH,config.MODEL_NAME)
     joblib.dump(pipeline_to_save,save_path)
-    print(f"Model has been saved with name" {config.MODEL_NAME})
+    print(f"Model has been saved with name {config.MODEL_NAME}")
 
 #Deserialization
 def load_pipeline(pipeline_to_load):
     save_path = os.path.join(config.SAVE_MODEL_PATH,config.MODEL_NAME)
     model_loaded = joblib.load(save_path)
-    print("Model has been saved loaded")
+    print("Model has been loaded")
     return model_loaded

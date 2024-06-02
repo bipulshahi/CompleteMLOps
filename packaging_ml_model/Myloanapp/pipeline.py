@@ -1,9 +1,19 @@
+
+from pathlib import Path
+import os
+import sys
+
+PACKAGE_ROOT = Path(os.path.abspath(os.path.dirname(__file__))).parent
+sys.path.append(str(PACKAGE_ROOT))
+
 from sklearn.pipeline import Pipeline
 from Myloanapp.config import config
 import Myloanapp.processing.preprocessing as pp
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.linear_model import LogisticRegression
 import numpy as np
+
+
 
 classification_pipeline = Pipeline([
     ('MeanImputation' , pp.MeanImputer(variables = config.NUM_FEATURES)),

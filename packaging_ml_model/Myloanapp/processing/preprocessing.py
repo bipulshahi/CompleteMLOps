@@ -45,7 +45,7 @@ class DropColumns:
 
   def transform(self,X):
     X = X.copy()
-    X = X.drop(columns = variables_to_drop)
+    X = X.drop(columns = self.variables_to_drop)
     return X
 
 class DomainProcessing:
@@ -58,7 +58,7 @@ class DomainProcessing:
 
   def transform(self,X):
     X = X.copy()
-    X[variable_to_modify] = X[variable_to_modify] + X[variable_to_add]
+    X[self.variable_to_modify] = X[self.variable_to_modify] + X[self.variable_to_add]
     return X
 
 class CustomLabelEncoder:
