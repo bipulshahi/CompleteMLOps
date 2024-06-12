@@ -122,8 +122,8 @@ Git configurations are settings that allow you to customize how Git works. They 
 ```
 git version
 git config --global --list
-git config --global user.name "nachiketh"
-git config --global user.email "support@manifoldailearning.in"
+git config --global user.name "bipul"
+git config --global user.email "vipulshahi25@gmail.com"
 git config --global init.defaultBranch main
 git config --global --list
 
@@ -190,7 +190,7 @@ git branch --all
 ## Cloning and Delete Branches
 ```
 git clone <url> <dir-name>
-git clone https://github.com/manifoldailearning/git4mlops.git my-folder
+git clone https://github.com/bipulshahi/git4mlops.git my-folder
 cd my-folder
 git branch --all
 git checkout -b unit-test
