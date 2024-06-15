@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bipulkumar/Documents/MLmodelPackaging/MLFlowexperiments/mlruns/418066168792433380/7a49859ad5eb47cda0d44f062c2ac5b9/artifacts
+end_time: 1718444636210
+entry_point_name: ''
+experiment_id: '418066168792433380'
+lifecycle_stage: active
+run_id: 7a49859ad5eb47cda0d44f062c2ac5b9
+run_name: amusing-ant-348
+run_uuid: 7a49859ad5eb47cda0d44f062c2ac5b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718444614798
+status: 3
+tags: []
+user_id: bipulkumar
