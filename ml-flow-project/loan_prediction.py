@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder
 from sklearn import metrics
 
-#mlflow.set_tracking_uri("http://localhost:5000")
+mlflow.set_tracking_uri("http://localhost:5000")
 
 #load the dataset
 dataset = pd.read_csv('train_loan.csv')
